@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/houtai/sindex.jsp=UTF-8
+encoding//WebContent/houtai/smenu.jsp=UTF-8
+encoding//src/com/biqwy/servlet/user/DoManSelect.java=UTF-8
+encoding//src/com/biqwy/servlet/user/ToUserUpdate.java=GBK
